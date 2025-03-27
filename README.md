@@ -19,4 +19,5 @@ Soy un desarrollador en formación con experiencia en **Ruby y Ruby on Rails**. 
 - **Control de versiones:** Git, GitHub
 
 ## 🚀 Proyectos Destacados  
-📌 **Web Scraper con Nokogiri** - Un script en Ruby que extrae datos de sitios web. 
+📌 -[Web Scraper con Nokogiri](https://github.com/DomiAndi/Ruby-spell-scraper): Un script en Ruby que extrae datos de sitios web.
+
